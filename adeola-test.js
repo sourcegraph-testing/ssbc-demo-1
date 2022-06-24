@@ -1,4 +1,4 @@
-const foo = "something";
+const foo = "something       ";
 const isSomething = !!foo;
 // Boolean(foo)
 
