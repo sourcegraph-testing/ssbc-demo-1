@@ -206,11 +206,13 @@ module.exports = exports = {
     "no-trailing-spaces": WARN,
     "no-underscore-dangle": WARN,
     "no-unneeded-ternary": WARN,
+    "no-var": "error",
     "object-curly-spacing": [WARN, "always"],
     "one-var": OFF,
     "operator-assignment": [WARN, "never"],
     "operator-linebreak": [WARN, "after"],
     "padded-blocks": [WARN, "never"],
+    "prefer-const": "error",
     "quote-props": [WARN, "consistent-as-needed"],
     quotes: [WARN, "single"],
     "require-jsdoc": [
