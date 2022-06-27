@@ -1,5 +1,8 @@
-const foo = "something       ";
+const foo = "something";
 const isSomething = !!foo;
-// Boolean(foo)
+//Testing with capitilized first letter of a comment
 
-// console.log("isSomething ", isSomething);
+var five = 5;
+if (5 == five) {
+  console.log(5);
+}
